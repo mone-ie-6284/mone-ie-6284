@@ -91,7 +91,7 @@ a&theme=radical&no-frame=true&row=1&column=7" alt="usernameanda" />
 </p>
 
 ## 🌐 Media Sosial
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mone-ie-6284
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cmarvelous-mone-ie
 )
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mone-ie-6284
 )
