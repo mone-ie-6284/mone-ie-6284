@@ -71,25 +71,35 @@ Here are some ideas to get you started:
 ## 📊 Statistik GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=usernameanda&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="usernameanda" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usernameanda&layout=compact&langs_count=8&theme=radical" alt="usernameanda" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mone-ie-6284
+&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="mone-ie-6284
+" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mone-ie-6284
+&layout=compact&langs_count=8&theme=radical" alt="mone-ie-6284
+" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usernameanda&theme=radical" alt="usernameanda" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mone-ie-6284
+&theme=radical" alt="usernameanda" />
 </p>
 
 ## 🏆 Trophy GitHub
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=usernameanda&theme=radical&no-frame=true&row=1&column=7" alt="usernameanda" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mone-ie-6284
+a&theme=radical&no-frame=true&row=1&column=7" alt="usernameanda" />
 </p>
 
 ## 🌐 Media Sosial
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/usernameanda)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/usernameanda)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/usernameanda)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mone-ie-6284
+)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mone-ie-6284
+)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mone-ie-6284
+)
 
 ## 💰 Support
 <p align="center">
-  <a href="https://www.buymeacoffee.com/usernameanda"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"></a>
+  <a href="https://www.buymeacoffee.com/mone-ie-6284
+"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"></a>
 </p>
