@@ -2,15 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1DA1F2&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mone-ie-6284
-&label=Profile%20views&color=0e75b6&style=flat" alt="mone-ie-6284
-" />
-  <a href="https://github.com/mone-ie-6284
-?tab=followers"><img src="https://img.shields.io/github/followers/mone-ie-6284
-?label=Followers&style=social" alt="GitHub Followers"></a>
-</p>
-
 ## 👨‍💻 Tentang Saya
 - 📫 Cara menghubungi saya: cmarvelous6284@gmail.com
 - ⚡ Fakta menyenangkan: Saya suka kopi ☕ dan koding tengah malam 🌙
@@ -44,12 +35,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-## 🏆 Trophy GitHub
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mone-ie-6284
-a&theme=radical&no-frame=true&row=1&column=7" alt="mone-ie-6284" />
-</p>
 
 ## 🌐 Media Sosial
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cmarvelous-mone-ie
