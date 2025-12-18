@@ -1,20 +1,3 @@
-## Hi there 👋
-
-<!--
-**mone-ie-6284/mone-ie-6284** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Halo, Saya Clay Marvelous Mone Ie 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1DA1F2&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast)](https://git.io/typing-svg)
@@ -29,13 +12,7 @@ Here are some ideas to get you started:
 </p>
 
 ## 👨‍💻 Tentang Saya
-
-- 🔭 Saat ini mengerjakan: [Proyek Keren Anda]
-- 🌱 Sedang belajar: Teknologi Terkini
-- 👯 Ingin berkolaborasi di: Proyek Open Source
-- 💬 Tanya saya tentang: [Keahlian Anda]
-- 📫 Cara menghubungi saya: [Email/Media Sosial]
-- 😄 Pronouns: Dia/Dia
+- 📫 Cara menghubungi saya: cmarvelous6284@gmail.com
 - ⚡ Fakta menyenangkan: Saya suka kopi ☕ dan koding tengah malam 🌙
 
 ## 🛠 Tech Stack
@@ -68,26 +45,10 @@ Here are some ideas to get you started:
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-## 📊 Statistik GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mone-ie-6284
-&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="mone-ie-6284
-" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mone-ie-6284
-&layout=compact&langs_count=8&theme=radical" alt="mone-ie-6284
-" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mone-ie-6284
-&theme=radical" alt="usernameanda" />
-</p>
-
 ## 🏆 Trophy GitHub
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mone-ie-6284
-a&theme=radical&no-frame=true&row=1&column=7" alt="usernameanda" />
+a&theme=radical&no-frame=true&row=1&column=7" alt="mone-ie-6284" />
 </p>
 
 ## 🌐 Media Sosial
@@ -98,22 +59,8 @@ a&theme=radical&no-frame=true&row=1&column=7" alt="usernameanda" />
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mone-ie-6284
 )
 
-## 💰 Support
-<p align="center">
-  <a href="https://www.buymeacoffee.com/mone-ie-6284
-"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"></a>
-</p>
-
-# Jangan bully aku stah
-
 # Contact me 📞
-<a href="https://www.instagram.com/_zxagung" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Follow"></a>
+<a href="https://wa.me/6281223323341" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Eka Gans"></a>
 
-<a href="https://wa.me/6289655478810" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Eka Gans"></a>
-
-# Donate 💵
-<a href="https://saweria.co/donate/agung1"><img alt="Donate" src="https://img.shields.io/badge/Saweria-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
-
-#source Ekadanuarta
 
   
